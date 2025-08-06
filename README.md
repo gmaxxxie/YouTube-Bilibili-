@@ -24,7 +24,7 @@
 ## 📦 安装方法
 
 ### 方法一：Greasy Fork 安装（推荐）
-1. 访问 [Greasy Fork 脚本页面](https://greasyfork.org/scripts/your-script-id)
+1. 访问 [Greasy Fork 脚本页面]([https://greasyfork.org/scripts/your-script-id](https://greasyfork.org/zh-CN/scripts/544798-youtube-一键跳转-bilibili-同名视频-v2-3))
 2. 点击"安装"按钮
 3. 确认安装到油猴插件
 
